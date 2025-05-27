@@ -33,6 +33,7 @@ public class Main {
        // Problem_14500 problem14500 = new Problem_14500();
         //Problem_14500ver2 problem14500v = new Problem_14500ver2();
         //---------Problem_6064 problem6064 = new Problem_6064();
-        Problem_1748 problem1748 = new Problem_1748();
+        // Problem_1748 problem1748 = new Problem_1748();
+        Problem_9095 problem9095 = new Problem_9095();
     }
 }
