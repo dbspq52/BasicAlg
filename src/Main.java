@@ -32,24 +32,7 @@ public class Main {
         //Problem_1107 problem1107 = new Problem_1107();
        // Problem_14500 problem14500 = new Problem_14500();
         //Problem_14500ver2 problem14500v = new Problem_14500ver2();
-        Problem_6064 problem6064 = new Problem_6064();
+        //---------Problem_6064 problem6064 = new Problem_6064();
+        Problem_1748 problem1748 = new Problem_1748();
     }
 }
-
-/*15
-push_back 1
-push_front 2
-front
-back
-size
-empty
-pop_front
-pop_back
-pop_front
-size
-empty
-pop_back
-push_front 3
-empty
-front
-**/
